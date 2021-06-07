@@ -12,6 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hofmmaxi&lang_count=10&theme=tokyonight&include_all_commits=true&count_private=true&compact=true&layout=compact&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact me ✨💖
-    - [Twitter](https://twitter.com/MaxiiCodes)
-    - [Instagram://https://instagram.com/hofmmaxi]
+    - [Twitter](https://twitter.com/MaxiiCodes): @MaxiiCodes
+    - [Instagram](//https://instagram.com/hofmmaxi): @hofmmaxi
     - [Discord](https://canary.discord.com/channels/@me/724418585841107015): @Maxii#0947
+    - [Mail](mailto:maximilian.hofmann.2@gmx.de): maximilian.hofmann.2@gmx.de
