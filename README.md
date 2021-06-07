@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**hofmmaxi/hofmmaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Something about me
+    - Nickname: Maxi
+    - Age: 17
+    - Pronouns: he/him
+    - I love cats 🐈
 
-Here are some ideas to get you started:
+# Some stats 📊
+[![hofmmaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hofmmaxi&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hofmmaxi&lang_count=10&theme=tokyonight&include_all_commits=true&count_private=true&compact=true&layout=compact&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contact me ✨💖
+    - [Twitter](https://twitter.com/MaxiiCodes)
+    - [Instagram://https://instagram.com/hofmmaxi]
+    - [Discord](https://canary.discord.com/channels/@me/724418585841107015): @Maxii#0947
