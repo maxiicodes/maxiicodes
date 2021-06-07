@@ -12,5 +12,5 @@
 # Contact me ✨💖
  - [Twitter](https://twitter.com/MaxiiCodes): @MaxiiCodes
  - [Instagram](https://instagram.com/hofmmaxi): @hofmmaxi
- - [Discord](https://canary.discord.com/channels/@me/724418585841107015): @Maxii#0947
+ - [Discord](https://discord.com/users/463044315007156224): @Maxii#0947
  - [Mail](mailto:maximilian.hofmann.2@gmx.de): maximilian.hofmann.2@gmx.de
