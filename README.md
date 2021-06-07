@@ -1,5 +1,3 @@
-### Hey there 👋
-
 # Something about me
  - Nickname: Maxi
  - Age: 17
