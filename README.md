@@ -13,4 +13,4 @@
  - [Twitter](https://twitter.com/MaxiiCodes): @MaxiiCodes
  - [Instagram](https://instagram.com/hofmmaxi): @hofmmaxi
  - [Discord](https://discord.com/users/463044315007156224): @Maxii#0947
- - [Mail](mailto:maximilian.hofmann.2@gmx.de): maximilian.hofmann.2@gmx.de
+ - [Mail](mailto:mh@wildemail.de): mh@wildemail.de
