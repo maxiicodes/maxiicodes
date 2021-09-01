@@ -1,6 +1,6 @@
 # Something about me
  - Nickname: Maxi
- - Age: 17
+ - Age: 18
  - Pronouns: he/him
  - I love cats 🐈
 
