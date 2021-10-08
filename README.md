@@ -2,7 +2,7 @@
  - Nickname: Maxi
  - Age: 18
  - Pronouns: he/him
- - I love cats 🐈
+ - kadsen sind toll 🐈
 
 # Some stats 📊
 [![hofmmaxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hofmmaxi&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=25&border_color=4C40B2)](https://github.com/anuraghazra/github-readme-stats)
