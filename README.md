@@ -12,5 +12,5 @@
 # Contact me ✨💖
  - [Twitter](https://twitter.com/MaxiiCodes): @MaxiiCodes
  - [Instagram](https://instagram.com/hofmmaxi): @hofmmaxi
- - [Discord](https://discord.com/users/463044315007156224): @maxi liebt mel trotzdem mehr#0617
+ - [Discord](https://discord.com/users/463044315007156224): @maxii#0617
  - [Mail](mailto:mh@wildemail.de): mh@wildemail.de
