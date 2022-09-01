@@ -1,6 +1,6 @@
 # Something about me
  - Nickname: Maxi || maggsii
- - Age: 18
+ - Age: 19
  - Pronouns: he/him
  - kadsen sind toll 🐈
 
