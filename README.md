@@ -1,6 +1,6 @@
 # Something about me
  - Nickname: Maxi || maggsii
- - Age: 21
+ - Age: 22
  - Pronouns: he/him
  - kadsen sind toll 🐈
 
@@ -12,5 +12,5 @@
 # Contact me ✨💖
  - [Twitter](https://twitter.com/MaxiiCodes): @MaxiiCodes
  - [Instagram](https://instagram.com/hofmmaxi): @hofmmaxi
- - [Discord](https://discord.com/users/463044315007156224): @maxii
+ - [Discord](https://discord.com/users/463044315007156224): @maggsii
  - [Mail](mailto:maxi@maxiicodes.dev): maxi@maxiicodes.dev
